@@ -1,0 +1,48 @@
+{
+  "term": "Spring",
+  "year": "2000",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Cognitive Science"
+    ],
+    [
+      "Social Science",
+      "Psychology"
+    ]
+  ],
+  "legacy_uid": "26f263af-d2f4-0e50-e08d-c705442a27cd",
+  "instructors": {
+    "content": [
+      "62fb6017-6afd-4c1d-95a2-66f739afd718"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "4a65d7b8-ab75-793c-3454-50652f53501d",
+    "website": "9-201-advanced-animal-behavior-spring-2000"
+  },
+  "course_title": "Advanced Animal Behavior",
+  "course_description": "The course includes survey and special topics designed for graduate students in the brain and cognitive sciences. It emphasizes ethological studies of natural behavior patterns and their analysis in laboratory work, with contributions from field biology (mammology, primatology), sociobiology, and comparative psychology. It stresses mammalian behavior but also includes major contributions from studies of other vertebrates and of invertebrates. It covers some applications of animal-behavior knowledge to neuropsychology and behavioral pharmacology.\n",
+  "department_numbers": [
+    "9"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "9.201",
+  "course_image_thumbnail": {
+    "content": "1a94d194-8f52-7e13-903e-2bbbb21806c0",
+    "website": "9-201-advanced-animal-behavior-spring-2000"
+  },
+  "learning_resource_types": [
+    "Presentation Assignments",
+    "Activity Assignments",
+    "Written Assignments"
+  ],
+  "site_uid": "790f9f76-0b40-4230-a451-fb3e14a7ee52",
+  "site_short_id": "9.201-spring-2000",
+  "site_url_path": "courses/9-201-advanced-animal-behavior-spring-2000",
+  "title": "Course Metadata"
+}
