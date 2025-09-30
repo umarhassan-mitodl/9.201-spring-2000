@@ -26,6 +26,7 @@
     "website": "9-201-advanced-animal-behavior-spring-2000"
   },
   "course_title": "Advanced Animal Behavior",
+  "hide_download": true,
   "course_description": "The course includes survey and special topics designed for graduate students in the brain and cognitive sciences. It emphasizes ethological studies of natural behavior patterns and their analysis in laboratory work, with contributions from field biology (mammology, primatology), sociobiology, and comparative psychology. It stresses mammalian behavior but also includes major contributions from studies of other vertebrates and of invertebrates. It covers some applications of animal-behavior knowledge to neuropsychology and behavioral pharmacology.\n",
   "department_numbers": [
     "9"
@@ -36,6 +37,7 @@
     "content": "1a94d194-8f52-7e13-903e-2bbbb21806c0",
     "website": "9-201-advanced-animal-behavior-spring-2000"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Presentation Assignments",
     "Activity Assignments",
